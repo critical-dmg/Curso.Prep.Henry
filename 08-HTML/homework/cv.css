@@ -1,0 +1,24 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#colOne{
+    display: flex;
+    background-color: rgb(29, 29, 48);
+    color: aliceblue;
+    flex-direction: column;
+    position: relative;
+}
+#colTwo{
+    display:block;
+    background-color: aliceblue;
+    flex-direction: column;
+    position: relative;
+
+}
+.devSection1 ul{
+    display: inline-block;
+}
+.devSection2 ul{
+    display: inline-block;
+}
